@@ -1,3 +1,9 @@
+# IDE
+.idea
+target
+allure-results
+video
+
 # Compiled class file
 *.class
 
