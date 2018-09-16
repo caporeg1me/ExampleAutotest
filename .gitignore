@@ -3,6 +3,7 @@
 target
 allure-results
 video
+build
 
 # Compiled class file
 *.class
